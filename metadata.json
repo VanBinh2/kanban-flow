@@ -1,0 +1,5 @@
+{
+  "name": "KanbanFlow",
+  "description": "A high-performance, Trello-like Kanban board application featuring drag-and-drop task management, dark mode, and local state persistence.",
+  "requestFramePermissions": []
+}
